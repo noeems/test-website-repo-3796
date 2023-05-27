@@ -6,6 +6,8 @@ title: Accueil
 L'ancien hôpital de Crest va entamer sa transformation.
 Bientôt, les résidents et résidentes de l'ehpad iront dans un bâtiment proche du nouvel hôpital, dans le quartier Mazorel.
 
+![Ce lieu, public depuis 1789, est en passe de devenir intégralement privé.](https://github.com/noeems/test-website-repo-3796/blob/main/images/Collectif%20hop%20-%20couverture.jpeg)
+
 ### 3 bâtiments, 10 000m2 au-dessus du vieux Crest
 Ce magnifique site en belvédère sur la vallée va donc changer d'usage. C’est un projet déterminant pour l’avenir de la ville.
 
