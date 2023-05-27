@@ -19,6 +19,6 @@ Pourtant, aux dernières nouvelles... Voici comment le projet a évolué :
 **Ce projet répond-il aux demandes et aux besoins de la vallée ?**
 
 ### 3 bâtiments, 10 000m2 au-dessus du vieux Crest
-Ce magnifique site en belvédère sur la vallée va donc changer d'usage. C’est un projet déterminant pour l’avenir de la ville.
+La transformation de ce magnifique site en belvédère sur la vallée est un projet déterminant pour l’avenir de la ville.
 
 # Exigeons une concertation !
