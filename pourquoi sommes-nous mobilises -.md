@@ -86,6 +86,16 @@ Les opérations de préparation de la parcelle vont coûter 2 600 000€ selon [
 
 **Est-ce bien raisonnable d'employer une telle somme pour privatiser un bien public ?**
 
+### Pourquoi ne pas décider avec les habitants de la vallée ?
+
+Nous avons bien vu que les équipes municipales étaient équipées pour informer les crestois et les crestoises de projets d'aménagement conséquent.
+Un exemple récent ?
+Le ré-aménagement du quartier de la gare, pour lequel des panneaux d'information ont été mis à disposition, des annonces ont été diffusées dans le magazine municipal le Lien, des moments de concertation ont été organisés...
+
+De plus, de nombreux habitants de la vallée ont une histoire personnelle avec ce bâtiment. Des gens y ont travaillé, y sont né, ont veillé des proches dans ces chambres. C'est un symbole de la vie collective, un bâtiment public dans lequel on prend soin et on assiste toutes les personnes qui en ont besoin. Ce bâtiment appartient plus qu'aucun autre à tous les habitants de la vallée. C'est pourquoi nous demandons pourquoi aucune consultation, et si peu d'informations aient été partagées par la mairie ?
+
+**Nous demandons une concertation citoyenne pour que naisse un projet collectif d'intérêt général.**
+
 ### Pourquoi démolir un bâtiment existant, plutôt que de le
 rénover ?
 
