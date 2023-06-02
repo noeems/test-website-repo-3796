@@ -23,7 +23,7 @@ Il a été présenté au Conseil municipal dans ses grandes lignes au mois de se
 Une convention fixant un cadre pour la préparation de ce projet a été validée au conseil municipal du mois de décembre 2022.
 
 <details>
-    <summary><h3>Présentation des bâtiments et leur transformation</h3></summary>
+    <summary><h4>Présentation des bâtiments et leur transformation</h4></summary>
     <p><b>Bâtiment A</b>
 <br>
 « Mesdames et messieurs, je suis le bâtiment A. Oui, le grand, celui qui se voit de loin ex-hôpital de Crest, fier et novateur à l’époque de ma construction.
@@ -32,12 +32,14 @@ Je fais 3200 m2 de planchers, le tout en bon état global.
 Ma démolition est programmée.
 Je vais donc devenir une esplanade devant l'hôtel.
 Nous sommes sur un terrain de 2,4 hectares qui est aussi propriété de l'hôpital. »
+<br>
 
 <b>Bâtiment B</b>
 <br>
 « Moi je suis le bâtiment B, actuellement Ehpad, je fais près de 3500 m2 de planchers je suis considéré bâtiment remarquable par les urbanistes. Une chapelle, incluse dans mon bâti est classée monument historique. Mes espaces originaux sont issus d’un ancien couvent, d’avant 1789.
 Comme tout mes voisins du site, je suis propriété de l'hôpital.
 Avec le projet actuel, je deviendrais un hôtel de 60 chambres niveau 3 étoiles, équipé d'un restaurant d’environ 200 m2. »
+<br>
 
 <b>Bâtiments C et D</b>
 <br>
