@@ -21,8 +21,7 @@ Aujourd'hui, le programme des équipes municipales contient :
 - des logements,
 - la démolition d'un des trois bâtiments.
 
-À part deux réunions de quartier habituelles.
-
+À part deux réunions de quartier habituelles...
 ### Ce projet n’a pas fait l’objet de consultation ou de concertation avec les crestois et crestoises.
 
 Pourtant, il a été présenté au Conseil municipal dans ses grandes lignes au mois de septembre dernier, et assorti d’une promesse de concertation.
@@ -63,18 +62,15 @@ Une convention fixant un cadre pour la préparation de ce projet a été validé
  </p>
     </details>
 
-## Nos questionnements 
-
 ### Ce projet répond-ils aux besoins des habitants de Crest et de la vallée ?
 
-La mairie dispose d'une opportunité unique avec un ensemble de bâtiments de 10000m² sur une parcelle de 24000m² proche du centre-ville. 
+La mairie dispose d'une opportunité unique avec cet ensemble de bâtiments et cette parcelle de 24 000m² proche du centre-ville. 
 **La création d’un hôtel fait-elle partie des besoins prioritaires ?**
 
 – **Logement** : Le Plan Local de l'Habitat construit avec la mairie de Crest indique que « Le territoire du Crestois et du pays de Saillans fait face à un marché immobilier tendu. Le parc locatif est sous-tension : il est difficile d’accéder à un logement dans le privé comme dans le parc public. Par ailleurs, de jeunes ménages / primo-accédants quittent le territoire faute de solution résidentielle quand ils veulent accéder à la propriété. »
-Par ailleurs il y aussi un besoin très fort de logements temporaires pour accueillir les saisonniers, les étudiant·es, les jeunes travailleur·ses...
+Par ailleurs il y aussi un besoin très fort de logements temporaires pour accueillir les saisonniers, les étudiants, les jeunes travailleurs...
 
-– **Locaux professionnels** : L'Usine vivante, le Fablab, Entr'autre sont 3 espaces de coworking
-qui sont pleins. Il y a de nombreux professionnels sur le territoire qui cherchent des bureaux pour travailler, et ne trouvent pas.
+– **Locaux professionnels** : Il y a de nombreux professionnels sur le territoire qui cherchent des bureaux pour travailler, et ne trouvent pas.
 
 – **Lieu associatif** : de nombreuses associations ont des difficultés pour trouver des locaux pour organiser des événements, séminaires, activités, réunions...
 
@@ -85,12 +81,14 @@ conservé que les logements privés et l'hôtel ?
 
 ### Pourquoi consacrer tant d'argent public à la naissance d'un
 projet 100% privé ?
+
 Les opérations de préparation de la parcelle vont coûter 2 600 000€ selon [EPORA](https://www.epora.fr/). La vente de la parcelle, une fois qu'elle aura été « préparée » rapportera 800 000€. Il reste donc à charge 1 790 000€ pour la collectivité publique, dont 65% sont pris en charge par EPORA, et 35% par la mairie de Crest. Soit + de 600 000€
 
-Est-ce bien raisonnable d'employer une telle somme pour privatiser un bien public ?
+**Est-ce bien raisonnable d'employer une telle somme pour privatiser un bien public ?**
 
 ### Pourquoi démolir un bâtiment existant, plutôt que de le
 rénover ?
+
 Dans un contexte de raréfaction de certaines ressources et de contraintes croissantes sur leur exploitation, [l’ADEME a publié en 2020 les résultats de deux études prospectives](https://presse.ademe.fr/2019/12/etude-la-construction-neuve-beaucoup-plus-consommatrice-de-materiaux-que-la-renovation.html) permettant de comparer la consommation de matériaux nécessaires pour la construction et la rénovation d'un bâtiment en bon état.
 
 La construction d’un bâtiment de logements collectifs ou d’un EHPAD consomme en moyenne 1,6 t/m2, soit environ 80 fois plus que de rénover un bâtiment existant. C'est donc un non-sens écologique de démolir ce bâtiment.
