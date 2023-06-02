@@ -5,13 +5,17 @@ Aujourd’hui, le site de l’ancien hôpital, depuis le déménagement des serv
 
 Le déménagement de ces services à Mazorel est prévu depuis longtemps. Il semble avancer comme prévu, avec un transfert fin 2025 / début 2026.
 
-### Que va-t-on faire de ce site qui fait partie de notre patrimoine commun ?
+## Que va-t-on faire de ce site qui fait partie de notre patrimoine commun ?
+
+### 3 bâtiments, 10 000m2 au-dessus du vieux Crest...
 
 Ce site a déjà suscité des envies et des projets. 
-Dans le programme de la liste élue aux municipales, la reconversion de l’ancien hôpital devait permettre d’accueillir : un pôle associatif, des locaux d’activité, des espaces de travail partagé, de l’hébergement touristique, de l’accueil d’évènements, à côté de logements.  Mais aussi un lieu d’accueil, d’accompagnement d’artistes…
 
-Pourtant, en cours de route... Le projet a changé.
-**Aujourd'hui, au programme : un hôtel, des logements et la démolition d'un des trois bâtiments.**
+**Dans le programme des élections municipales de 2020...**
+Pour la liste élue aux municipales, la reconversion de l’ancien hôpital devait permettre d’accueillir : un pôle associatif, des locaux d’activité, des espaces de travail partagé, de l’hébergement touristique, de l’accueil d’évènements, à côté de logements. Mais aussi un lieu d’accueil, d’accompagnement d’artistes…
+
+**Pourtant, en cours de route... Le projet a changé.
+Aujourd'hui, au programme : un hôtel, des logements et la démolition d'un des trois bâtiments.**
 
 **Ce projet n’a pas fait l’objet de consultation, ni de concertation avec les crestois, à part deux réunions de quartier habituelles.**
 Il a été présenté au Conseil municipal dans ses grandes lignes au mois de septembre dernier, et assorti d’une promesse de concertation.
@@ -19,7 +23,7 @@ Il a été présenté au Conseil municipal dans ses grandes lignes au mois de se
 Une convention fixant un cadre pour la préparation de ce projet a été validée au conseil municipal du mois de décembre 2022.
 
 <details>
-    <summary>Présentation des bâtiments et leur transformation</summary>
+    <summary><h3>Présentation des bâtiments et leur transformation</h3></summary>
     <p><b>Bâtiment A</b>
 <br>
 « Mesdames et messieurs, je suis le bâtiment A. Oui, le grand, celui qui se voit de loin ex-hôpital de Crest, fier et novateur à l’époque de ma construction.
