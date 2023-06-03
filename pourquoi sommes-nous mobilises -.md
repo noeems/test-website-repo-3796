@@ -8,6 +8,9 @@ title: Pourquoi sommes-nous mobilisés ?
 
 Le projet tel qu'imaginé aujourd'hui par les équipes municipales pose question sur les plans économique, écologique, social, d'urbanisme...
 
+Lors de notre première réunion publique, nous avons organisé une session d'information avec les chiffres, les thèmes, et les dates clé :
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ispRqygJ7-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Hier, dans le programme des élections municipales de 2020...
 Pour la liste élue, l'ambition était de « transformer le site de l’ancien hôpital en éco-quartier : des locaux d’activités, des espaces de coworking, de l’hébergement touristique, de l’accueil d’évènements pourront être proposés à côté de logements et d’un pôle associatif. » (Extrait de leur programme).
 
