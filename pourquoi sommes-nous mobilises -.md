@@ -1,10 +1,10 @@
 ---
 title: Pourquoi sommes-nous mobilisés ?
 ---
-#### Voici, en synthèse, ce qui pose problème dans l'approche de la transformation de ce vaste site, au cœur de Crest :
-#### La transformation d’un bien public à destination d’un rachat par des structures privées,
-#### Un manque d’informations et de transparence de la part de l’équipe municipale,
-#### La démolition d’un bâtiment récent, et en bon état.
+#### En synthèse, voici ce qui pose problème dans l'approche de la transformation de ce site :
+- ##### La transformation d’un bien public à destination d’un rachat par des structures privées,
+- ##### Un manque d’informations et de transparence de la part de l’équipe municipale,
+- ##### La démolition d’un bâtiment récent, et en bon état.
 
 Le projet tel qu'imaginé aujourd'hui par les équipes municipales pose question sur les plans économique, écologique, social, d'urbanisme...
 
