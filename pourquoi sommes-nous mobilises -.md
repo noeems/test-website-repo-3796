@@ -26,7 +26,7 @@ Pourtant, il a été présenté au Conseil municipal dans ses grandes lignes au 
 <summary>Zoom sur les bâtiments et leur transformation projetée
 
 <br> 
-<img src="Ancien-hopital-geoportail.png">
+<img src="https://github.com/noeems/test-website-repo-3796/blob/a821186031800561f202f6e242e6f07fc63f105f/images/Ancien-hopital-geoportail.png">
 </summary>
 
 Aujourd’hui, le site de l’ancien hôpital, depuis le déménagement des services hospitaliers à Mazorel en 2014, comporte encore : l’EHPAD Armorin, l’EHPAD Ste Marie, une maison d’assistantes maternelles, une cuisine et des archives.
