@@ -11,4 +11,4 @@ Nous sommes :
 - des actifs, des retraités...
 
 **Envie de nous contacter ?**
-C'est par ici : [hopcollectif@gmail.com](hopcollectif@gmail.com)
+C'est par ici : [hopcollectif@gmail.com](mailto:hopcollectif@gmail.com)
