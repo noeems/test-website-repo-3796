@@ -9,7 +9,7 @@ title: Pourquoi sommes-nous mobilisés ?
 Le projet tel qu'imaginé aujourd'hui par les équipes municipales pose question sur les plans économique, écologique, social, d'urbanisme...
 
 ### Hier, dans le programme des élections municipales de 2020...
-Pour la liste élue, la reconversion de l’ancien hôpital devait permettre d’accueillir : un pôle associatif, des locaux d’activité, des espaces de travail partagé, de l’hébergement touristique, de l’accueil d’évènements, à côté de logements. Mais aussi un lieu d’accueil, d’accompagnement d’artistes… (Extrait de leur programme).
+Pour la liste élue, l'ambition était de « transformer le site de l’ancien hôpital en éco-quartier : des locaux d’activités, des espaces de coworking, de l’hébergement touristique, de l’accueil d’évènements pourront être proposés à côté de logements et d’un pôle associatif. » (Extrait de leur programme).
 
 ### Aujourd'hui, le projet a changé.
 Le programme des équipes municipales contient :
@@ -26,7 +26,7 @@ Pourtant, il a été présenté au Conseil municipal dans ses grandes lignes au 
 <summary>Zoom sur les bâtiments et leur transformation projetée
 
 <br> 
-<img src="Ancien%20hopital%20-%20geoportail.png">
+<img src="Ancien-hopital-geoportail.png">
 </summary>
 
 Aujourd’hui, le site de l’ancien hôpital, depuis le déménagement des services hospitaliers à Mazorel en 2014, comporte encore : l’EHPAD Armorin, l’EHPAD Ste Marie, une maison d’assistantes maternelles, une cuisine et des archives.
