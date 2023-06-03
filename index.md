@@ -38,4 +38,5 @@ Par exemple :
 - diffuser l'information autour de vous, 
 - écrire à vos élus,
 - rejoindre le collectif...
-[Découvrir quelles actions vous correspondent](http://collectifhop.fr/agir%20avec%20nous.html)
+
+**[Découvrir quelles actions vous correspondent](http://collectifhop.fr/agir%20avec%20nous.html)**
