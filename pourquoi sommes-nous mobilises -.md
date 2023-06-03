@@ -8,11 +8,10 @@ title: Pourquoi sommes-nous mobilisés ?
 
 Le projet tel qu'imaginé aujourd'hui par les équipes municipales pose question sur les plans économique, écologique, social, d'urbanisme...
 
+<img src="https://raw.githubusercontent.com/noeems/test-website-repo-3796/main/images/Ancien-hopital-geoportail.png">
+
 <details> 
 <summary>Zoom sur les bâtiments et leur transformation projetée
-
-<br> 
-<img src="https://raw.githubusercontent.com/noeems/test-website-repo-3796/main/images/Ancien-hopital-geoportail.png">
 </summary>
 
 Aujourd’hui, le site de l’ancien hôpital, depuis le déménagement des services hospitaliers à Mazorel en 2014, comporte encore : l’EHPAD Armorin, l’EHPAD Ste Marie, une maison d’assistantes maternelles, une cuisine et des archives.
@@ -90,17 +89,16 @@ Les opérations de préparation de la parcelle vont coûter 2 600 000€ selon [
 
 ### Pourquoi démolir un bâtiment existant, plutôt que de le rénover ?
 
-Dans un contexte de raréfaction de certaines ressources et de contraintes croissantes sur leur exploitation, [l’ADEME a publié en 2020 les résultats de deux études prospectives](https://presse.ademe.fr/2019/12/etude-la-construction-neuve-beaucoup-plus-consommatrice-de-materiaux-que-la-renovation.html) permettant de comparer la consommation de matériaux nécessaires pour la construction et la rénovation d'un bâtiment en bon état.
+Dans un contexte de raréfaction de certaines ressources et de contraintes croissantes sur leur exploitation, [l’ADEME a publié en 2020 les résultats de deux études prospectives](https://presse.ademe.fr/2019/12/etude-la-construction-neuve-beaucoup-plus-consommatrice-de-materiaux-que-la-renovation.html) permettant de comparer la consommation de matériaux nécessaires pour la construction et la rénovation d'un bâtiment en bon état. La construction d’un bâtiment de logements collectifs ou d’un EHPAD consomme en moyenne 1,6 t/m2, soit environ 80 fois plus que de rénover un bâtiment existant. 
+**C'est un non-sens écologique de démolir ce bâtiment.**
 
-La construction d’un bâtiment de logements collectifs ou d’un EHPAD consomme en moyenne 1,6 t/m2, soit environ 80 fois plus que de rénover un bâtiment existant. C'est donc un non-sens écologique de démolir ce bâtiment.
+Ce bâtiment a 100 ans, il a été construit avec des matériaux nobles, du bois, de la pierre. Il est bien orienté, lumineux, il est compact (donc plus facile à isoler thermiquement). A l'époque, il a été mis en œuvre par des artisans exerçant des savoir-faire uniques. Si on voulait reconstruire à l'identique aujourd'hui, ce serait hors de prix.
 
-Ce bâtiment a 100 ans, il a été construit avec des matériaux nobles****, du bois, de la pierre. Il est bien orienté, lumineux, il est compact (donc plus facile à isoler thermiquement). A l'époque, il a été mis en oeuvre par des artisans qui ont mis en œuvre des savoir-faire uniques. Si on voulait reconstruire à l'identique aujourd'hui, ce serait hors de prix. 
+**Quel est le sens de détruire un bâtiment bien construit alors que nous avons besoin de surfaces disponibles ?**
 
-_Quel est le sens de détruire un bâtiment bien construit alors que nous avons besoin de surfaces disponibles ?_
+**Pour les riverains, le chantier sera une source de nuisances énormes.** Pour qu'elles puissent être comprises et acceptées, il faut qu'elles servent un projet qui a du sens pour elles et eux. Aujourd'hui, est ce que les habitants des quartiers Sainte Euphémie, Rochefort et Charabot adhèrent ce projet ?
 
-– **Pour les riverains, le chantier sera une source de nuisances énormes.** Pour qu'elles puissent être comprises et acceptées, il faut qu'elles servent un projet qui a du sens pour elles et eux. Aujourd'hui, est ce que les habitants des quartiers Sainte Euphémie, Rochefort et Charabot adhèrent ce projet ?
-
-– **De nombreuses inquiétudes demeurent quant aux risques de désordres
+**De nombreuses inquiétudes demeurent quant aux risques de désordres
 structurels dans le quartier**, liés aux bouleversements géologiques que représentent la démolition d'un bâtiment, et la construction d'un parking souterrain.
 
 ### Est-ce le projet qui doit s'adapter au site, ou l'inverse ?
