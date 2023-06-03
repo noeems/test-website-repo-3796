@@ -1,54 +1,9 @@
 ---
 title: Pourquoi sommes-nous mobilisés ?
 ---
-#### En synthèse, voici ce qui pose problème dans l'approche de la transformation de ce site :
-- **La transformation d’un bien public à destination d’un rachat par des structures privées**,
-- **Un manque d’informations et de transparence de la part de l’équipe municipale**,
-- **La démolition d’un bâtiment récent, et en bon état...**
-
-Le projet tel qu'imaginé aujourd'hui par les équipes municipales pose question sur les plans économique, écologique, social, d'urbanisme...
-
-<img src="https://raw.githubusercontent.com/noeems/test-website-repo-3796/main/images/Ancien-hopital-geoportail.png">
-
-<details> 
-<summary>Zoom sur les bâtiments et leur transformation projetée
-</summary>
-
 Aujourd’hui, le site de l’ancien hôpital, depuis le déménagement des services hospitaliers à Mazorel en 2014, comporte encore : l’EHPAD Armorin, l’EHPAD Ste Marie, une maison d’assistantes maternelles, une cuisine et des archives.
 
 Le déménagement de ces services à Mazorel est prévu depuis longtemps. Il semble avancer comme prévu, avec un transfert fin 2025 / début 2026.
-
-    <p><b>Bâtiment A</b>
-<br>
-« Mesdames et messieurs, je suis le bâtiment A. Oui, le grand, celui qui se voit de loin ex-hôpital de Crest, fier et novateur à l’époque de ma construction.
-À part une maison d'assistantes maternelles, je suis vide depuis plusieurs années. Je fais partie depuis presque 100 ans du paysage urbain de la ville,
-Je fais 3200 m2 de planchers, le tout en bon état global.
-Ma démolition est programmée.
-Je vais donc devenir une esplanade devant l'hôtel.
-Nous sommes sur un terrain de 2,4 hectares qui est aussi propriété de l'hôpital. »
-<br><br>
-
-<b>Bâtiment B</b>
-<br>
-« Moi je suis le bâtiment B, actuellement Ehpad, je fais près de 3500 m2 de planchers je suis considéré bâtiment remarquable par les urbanistes. Une chapelle, incluse dans mon bâti est classée monument historique. Mes espaces originaux sont issus d’un ancien couvent, d’avant 1789.
-Comme tout mes voisins du site, je suis propriété de l'hôpital.
-Avec le projet actuel, je deviendrais un hôtel de 60 chambres niveau 3 étoiles, équipé d'un restaurant d’environ 200 m2. »
-<br><br>
-
-<b>Bâtiments C et D</b>
-<br>
-« Nous, on est deux en un, les bâtiments C et D. Nous représentons 2473 m2 de planchers, années 60.
-Nous sommes blottis face Ouest de la colline, tranquilles dans notre coin.
-Ehpad actuellement, notre activité va déménager avec celui du bâtiment B au quartier Mazorel.
-On projette de nous transformer en 30 logements, qui seront vendus en accession à la propriété. »
-<br><br>
-Une convention fixant un cadre pour la préparation de ce projet a été validée au conseil municipal du mois de décembre 2022.
- </p>
-    </details>
-
-### Les chiffres, les thèmes, et les dates clé
-Le 16 mai, nous avons organisé une réunion publique. Une présentation des informations dont le collectif dispose à date, suivie de questions-réponses :
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ispRqygJ7-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Nos questionnements principaux ↓
 
