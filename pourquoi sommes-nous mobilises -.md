@@ -1,9 +1,13 @@
 ---
 title: Pourquoi sommes-nous mobilisés ?
 ---
-Aujourd’hui, le site de l’ancien hôpital, depuis le déménagement des services hospitaliers à Mazorel en 2014, comporte encore : l’EHPAD Armorin, l’EHPAD Ste Marie, une maison d’assistantes maternelles, une cuisine et des archives.
+### Les chiffres, les thèmes, et les dates clé
+Le 16 mai, nous avons organisé une réunion publique. Une présentation des informations dont le collectif dispose à date, suivie de questions-réponses :
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ispRqygJ7-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Le déménagement de ces services à Mazorel est prévu depuis longtemps. Il semble avancer comme prévu, avec un transfert fin 2025 / début 2026.
+### La zone concernée
+
+<img src="https://raw.githubusercontent.com/noeems/test-website-repo-3796/main/images/Ancien-hopital-geoportail.png">
 
 ## Nos questionnements principaux ↓
 
