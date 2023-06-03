@@ -8,14 +8,6 @@ title: Pourquoi sommes-nous mobilisés ?
 
 Le projet tel qu'imaginé aujourd'hui par les équipes municipales pose question sur les plans économique, écologique, social, d'urbanisme...
 
-### Les chiffres, les thèmes, et les dates clé
-Le 16 mai, nous avons organisé une réunion publique. Une présentation des informations dont le collectif dispose à date, suivie de questions-réponses :
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ispRqygJ7-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## Nos questionnements principaux ↓
-
-### Ce projet répond-ils aux besoins des habitants de Crest et de la vallée ?
-
 <details> 
 <summary>Zoom sur les bâtiments et leur transformation projetée
 
@@ -55,6 +47,14 @@ Une convention fixant un cadre pour la préparation de ce projet a été validé
  </p>
     </details>
 
+### Les chiffres, les thèmes, et les dates clé
+Le 16 mai, nous avons organisé une réunion publique. Une présentation des informations dont le collectif dispose à date, suivie de questions-réponses :
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ispRqygJ7-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Nos questionnements principaux ↓
+
+### Ce projet répond-ils aux besoins des habitants de Crest et de la vallée ?
+
 La mairie dispose d'une opportunité unique avec cet ensemble de bâtiments et cette parcelle de 24 000m² proche du centre-ville. 
 **La création d’un hôtel fait-elle partie des besoins prioritaires ?**
 
@@ -93,3 +93,18 @@ Les opérations de préparation de la parcelle vont coûter 2 600 000€ selon [
 Dans un contexte de raréfaction de certaines ressources et de contraintes croissantes sur leur exploitation, [l’ADEME a publié en 2020 les résultats de deux études prospectives](https://presse.ademe.fr/2019/12/etude-la-construction-neuve-beaucoup-plus-consommatrice-de-materiaux-que-la-renovation.html) permettant de comparer la consommation de matériaux nécessaires pour la construction et la rénovation d'un bâtiment en bon état.
 
 La construction d’un bâtiment de logements collectifs ou d’un EHPAD consomme en moyenne 1,6 t/m2, soit environ 80 fois plus que de rénover un bâtiment existant. C'est donc un non-sens écologique de démolir ce bâtiment.
+
+Ce bâtiment a 100 ans, il a été construit avec des matériaux nobles****, du bois, de la pierre. Il est bien orienté, lumineux, il est compact (donc plus facile à isoler thermiquement). A l'époque, il a été mis en oeuvre par des artisans qui ont mis en œuvre des savoir-faire uniques. Si on voulait reconstruire à l'identique aujourd'hui, ce serait hors de prix. 
+
+_Quel est le sens de détruire un bâtiment bien construit alors que nous avons besoin de surfaces disponibles ?_
+
+– **Pour les riverains, le chantier sera une source de nuisances énormes.** Pour qu'elles puissent être comprises et acceptées, il faut qu'elles servent un projet qui a du sens pour elles et eux. Aujourd'hui, est ce que les habitants des quartiers Sainte Euphémie, Rochefort et Charabot adhèrent ce projet ?
+
+– **De nombreuses inquiétudes demeurent quant aux risques de désordres
+structurels dans le quartier**, liés aux bouleversements géologiques que représentent la démolition d'un bâtiment, et la construction d'un parking souterrain.
+
+### Est-ce le projet qui doit s'adapter au site, ou l'inverse ?
+
+La mairie justifie la démolition du bâtiment A pour « créer un parvis et dégager les vues sur la ville » et ainsi « donner plus d'espace à l'hôtel et faciliter la gestion du stationnement et des flux sur le site. » Les énormes travaux de démolition et de préparation sont donc au service exclusif du projet hôtelier.
+
+Ce projet est inscrit dans un secteur protégé des bâtiments de France, où les particuliers ont interdiction de poser un velux, de percer une fenêtre dans leur façade, ou même d'isoler leur logement par l'extérieur pour respecter le caractère patrimonial du vieux Crest. Comment est-il possible de détruire un bâtiment de 3200m² sans que cela ne porte préjudice à ce même patrimoine ?
