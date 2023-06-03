@@ -8,25 +8,13 @@ title: Pourquoi sommes-nous mobilisés ?
 
 Le projet tel qu'imaginé aujourd'hui par les équipes municipales pose question sur les plans économique, écologique, social, d'urbanisme...
 
-### Pour tout comprendre 
-Le 16 mai, nous avons organisé une session d'information avec les chiffres, les thèmes, et les dates clé :
+### Les chiffres, les thèmes, et les dates clé
+Le 16 mai, nous avons organisé une réunion publique. Une présentation des informations dont le collectif dispose à date, suivie de questions-réponses :
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ispRqygJ7-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Nos questionnements principaux ↓
 
-### Hier, dans le programme des élections municipales de 2020...
-Pour la liste élue, l'ambition était de « transformer le site de l’ancien hôpital en éco-quartier : des locaux d’activités, des espaces de coworking, de l’hébergement touristique, de l’accueil d’évènements pourront être proposés à côté de logements et d’un pôle associatif. » (Extrait de leur programme).
-
-### Aujourd'hui, le projet a changé.
-Le programme des équipes municipales contient :
-- Un hôtel 3 étoiles,
-- Des logements,
-- La démolition d'un des trois bâtiments.
-
-À part deux réunions de quartier habituelles...
-### Ce projet n’a pas fait l’objet de consultation ou de concertation avec les crestois et crestoises.
-
-Pourtant, il a été présenté au Conseil municipal dans ses grandes lignes au mois de septembre dernier, et assorti d’une promesse de concertation.
+### Ce projet répond-ils aux besoins des habitants de Crest et de la vallée ?
 
 <details> 
 <summary>Zoom sur les bâtiments et leur transformation projetée
@@ -67,8 +55,6 @@ Une convention fixant un cadre pour la préparation de ce projet a été validé
  </p>
     </details>
 
-### Ce projet répond-ils aux besoins des habitants de Crest et de la vallée ?
-
 La mairie dispose d'une opportunité unique avec cet ensemble de bâtiments et cette parcelle de 24 000m² proche du centre-ville. 
 **La création d’un hôtel fait-elle partie des besoins prioritaires ?**
 
@@ -81,24 +67,26 @@ Par ailleurs il y aussi un besoin très fort de logements temporaires pour accue
 
 – **Crèches** : À Crest comme dans toute la vallée, les places en crèches sont rares, et de nombreux parents se trouvent confrontés à de grandes difficultés pour trouver des solutions de garde.
 
-En 2020, Hervé Mariton, candidat à la mairie, faisait la promesse de « transformer le site de l'ancien hôpital en éco-quartier : des locaux d'activités, des espaces de coworking, de l'hébergement touristique, de l'accueil d'évènements pourront être proposés à côté de logements et d'un pôle associatif. » Pourquoi avoir mis à la trappe tous les autres aspects du projet, et n'avoir
-conservé que les logements privés et l'hôtel ?
+Pourquoi avoir mis à la trappe tous les autres aspects du projet tel qu'énoncé dans le programme des municipales 2020, et n'avoir conservé que les logements privés et l'hôtel ?
+
+### Pourquoi ne pas décider avec les habitants de la vallée ?
+
+À part deux réunions de quartier habituelles, l'information a très peu circulé.
+Pourtant, il a été présenté au Conseil municipal dans ses grandes lignes au mois de septembre dernier, et assorti d’une promesse de concertation.
+
+Nous avons bien vu que les équipes municipales étaient équipées pour informer les crestois et les crestoises de projets d'aménagement conséquent.
+Un exemple récent ?
+Le ré-aménagement du quartier de la gare, pour lequel des panneaux d'information ont été mis à disposition, des annonces ont été diffusées dans le magazine municipal le Lien, des moments de concertation ont été organisés...
+
+De plus, de nombreux habitants de la vallée ont une histoire personnelle avec ce bâtiment. Des gens y ont travaillé, y sont né, ont veillé des proches dans ces chambres. C'est un symbole de la vie collective, un bâtiment public dans lequel on prend soin et on assiste toutes les personnes qui en ont besoin. 
+
+**Nous demandons une concertation citoyenne pour que naisse un projet collectif d'intérêt général.**
 
 ### Pourquoi consacrer tant d'argent public à la naissance d'un projet 100% privé ?
 
 Les opérations de préparation de la parcelle vont coûter 2 600 000€ selon [EPORA](https://www.epora.fr/). La vente de la parcelle, une fois qu'elle aura été « préparée » rapportera 800 000€. Il reste donc à charge 1 790 000€ pour la collectivité publique, dont 65% sont pris en charge par EPORA, et 35% par la mairie de Crest. Soit + de 600 000€
 
 **Est-ce bien raisonnable d'employer une telle somme pour privatiser un bien public ?**
-
-### Pourquoi ne pas décider avec les habitants de la vallée ?
-
-Nous avons bien vu que les équipes municipales étaient équipées pour informer les crestois et les crestoises de projets d'aménagement conséquent.
-Un exemple récent ?
-Le ré-aménagement du quartier de la gare, pour lequel des panneaux d'information ont été mis à disposition, des annonces ont été diffusées dans le magazine municipal le Lien, des moments de concertation ont été organisés...
-
-De plus, de nombreux habitants de la vallée ont une histoire personnelle avec ce bâtiment. Des gens y ont travaillé, y sont né, ont veillé des proches dans ces chambres. C'est un symbole de la vie collective, un bâtiment public dans lequel on prend soin et on assiste toutes les personnes qui en ont besoin. Ce bâtiment appartient plus qu'aucun autre à tous les habitants de la vallée. C'est pourquoi nous demandons pourquoi aucune consultation, et si peu d'informations aient été partagées par la mairie ?
-
-**Nous demandons une concertation citoyenne pour que naisse un projet collectif d'intérêt général.**
 
 ### Pourquoi démolir un bâtiment existant, plutôt que de le rénover ?
 
