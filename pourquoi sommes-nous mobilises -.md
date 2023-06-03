@@ -1,25 +1,21 @@
 ---
 title: Pourquoi sommes-nous mobilisés ?
 ---
-Voici, en synthèse, ce qui pose problème dans l'approche de la transformation de ce vaste site, au cœur de Crest :
-- La transformation d’un bien public à destination d’un rachat par des structures privées,
-- Un manque d’informations et de transparence de la part de l’équipe municipale,
-- La démolition d’un bâtiment récent, et en bon état.
+#### Voici, en synthèse, ce qui pose problème dans l'approche de la transformation de ce vaste site, au cœur de Crest :
+#### La transformation d’un bien public à destination d’un rachat par des structures privées,
+#### Un manque d’informations et de transparence de la part de l’équipe municipale,
+#### La démolition d’un bâtiment récent, et en bon état.
 
 Le projet tel qu'imaginé aujourd'hui par les équipes municipales pose question sur les plans économique, écologique, social, d'urbanisme...
-
-10 000m2 au-dessus du vieux Crest... Ce site avait déjà suscité des envies et des projets. 
 
 ### Hier, dans le programme des élections municipales de 2020...
 Pour la liste élue, la reconversion de l’ancien hôpital devait permettre d’accueillir : un pôle associatif, des locaux d’activité, des espaces de travail partagé, de l’hébergement touristique, de l’accueil d’évènements, à côté de logements. Mais aussi un lieu d’accueil, d’accompagnement d’artistes… (Extrait de leur programme).
 
-**Pourtant, maintenant qu'on s'y attèle concrètement...**
-
-### Le projet a changé.
-Aujourd'hui, le programme des équipes municipales contient :
+### Aujourd'hui, le projet a changé.
+Le programme des équipes municipales contient :
 - Un hôtel 3 étoiles,
-- des logements,
-- la démolition d'un des trois bâtiments.
+- Des logements,
+- La démolition d'un des trois bâtiments.
 
 À part deux réunions de quartier habituelles...
 ### Ce projet n’a pas fait l’objet de consultation ou de concertation avec les crestois et crestoises.
@@ -30,7 +26,7 @@ Pourtant, il a été présenté au Conseil municipal dans ses grandes lignes au 
 <summary>Zoom sur les bâtiments et leur transformation projetée
 
 <br> 
-<img src="https://github.com/noeems/test-website-repo-3796/blob/main/images/Ancien%20hopital%20-%20geoportail.png">
+<img src="Ancien%20hopital%20-%20geoportail.png">
 </summary>
 
 Aujourd’hui, le site de l’ancien hôpital, depuis le déménagement des services hospitaliers à Mazorel en 2014, comporte encore : l’EHPAD Armorin, l’EHPAD Ste Marie, une maison d’assistantes maternelles, une cuisine et des archives.
