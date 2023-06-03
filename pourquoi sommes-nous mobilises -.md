@@ -26,8 +26,11 @@ Aujourd'hui, le programme des équipes municipales contient :
 
 Pourtant, il a été présenté au Conseil municipal dans ses grandes lignes au mois de septembre dernier, et assorti d’une promesse de concertation.
 
-<details>
-    <summary><h4>Zoom sur les bâtiments et leur transformation projetée</h4>
+<details> 
+<summary>Zoom sur les bâtiments et leur transformation projetée
+
+<br> 
+<img src="https://github.com/noeems/test-website-repo-3796/blob/main/images/Ancien%20hopital%20-%20geoportail.png">
 </summary>
 
 Aujourd’hui, le site de l’ancien hôpital, depuis le déménagement des services hospitaliers à Mazorel en 2014, comporte encore : l’EHPAD Armorin, l’EHPAD Ste Marie, une maison d’assistantes maternelles, une cuisine et des archives.
@@ -79,8 +82,7 @@ Par ailleurs il y aussi un besoin très fort de logements temporaires pour accue
 En 2020, Hervé Mariton, candidat à la mairie, faisait la promesse de « transformer le site de l'ancien hôpital en éco-quartier : des locaux d'activités, des espaces de coworking, de l'hébergement touristique, de l'accueil d'évènements pourront être proposés à côté de logements et d'un pôle associatif. » Pourquoi avoir mis à la trappe tous les autres aspects du projet, et n'avoir
 conservé que les logements privés et l'hôtel ?
 
-### Pourquoi consacrer tant d'argent public à la naissance d'un
-projet 100% privé ?
+### Pourquoi consacrer tant d'argent public à la naissance d'un projet 100% privé ?
 
 Les opérations de préparation de la parcelle vont coûter 2 600 000€ selon [EPORA](https://www.epora.fr/). La vente de la parcelle, une fois qu'elle aura été « préparée » rapportera 800 000€. Il reste donc à charge 1 790 000€ pour la collectivité publique, dont 65% sont pris en charge par EPORA, et 35% par la mairie de Crest. Soit + de 600 000€
 
@@ -96,8 +98,7 @@ De plus, de nombreux habitants de la vallée ont une histoire personnelle avec c
 
 **Nous demandons une concertation citoyenne pour que naisse un projet collectif d'intérêt général.**
 
-### Pourquoi démolir un bâtiment existant, plutôt que de le
-rénover ?
+### Pourquoi démolir un bâtiment existant, plutôt que de le rénover ?
 
 Dans un contexte de raréfaction de certaines ressources et de contraintes croissantes sur leur exploitation, [l’ADEME a publié en 2020 les résultats de deux études prospectives](https://presse.ademe.fr/2019/12/etude-la-construction-neuve-beaucoup-plus-consommatrice-de-materiaux-que-la-renovation.html) permettant de comparer la consommation de matériaux nécessaires pour la construction et la rénovation d'un bâtiment en bon état.
 
