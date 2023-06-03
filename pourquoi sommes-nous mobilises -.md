@@ -2,14 +2,17 @@
 title: Pourquoi sommes-nous mobilisés ?
 ---
 #### En synthèse, voici ce qui pose problème dans l'approche de la transformation de ce site :
-- ##### La transformation d’un bien public à destination d’un rachat par des structures privées,
-- ##### Un manque d’informations et de transparence de la part de l’équipe municipale,
-- ##### La démolition d’un bâtiment récent, et en bon état.
+- **La transformation d’un bien public à destination d’un rachat par des structures privées**,
+- **Un manque d’informations et de transparence de la part de l’équipe municipale**,
+- **La démolition d’un bâtiment récent, et en bon état...**
 
 Le projet tel qu'imaginé aujourd'hui par les équipes municipales pose question sur les plans économique, écologique, social, d'urbanisme...
 
-Lors de notre première réunion publique, nous avons organisé une session d'information avec les chiffres, les thèmes, et les dates clé :
+### Pour tout comprendre 
+Le 16 mai, nous avons organisé une session d'information avec les chiffres, les thèmes, et les dates clé :
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ispRqygJ7-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Nos questionnements principaux ↓
 
 ### Hier, dans le programme des élections municipales de 2020...
 Pour la liste élue, l'ambition était de « transformer le site de l’ancien hôpital en éco-quartier : des locaux d’activités, des espaces de coworking, de l’hébergement touristique, de l’accueil d’évènements pourront être proposés à côté de logements et d’un pôle associatif. » (Extrait de leur programme).
@@ -29,7 +32,7 @@ Pourtant, il a été présenté au Conseil municipal dans ses grandes lignes au 
 <summary>Zoom sur les bâtiments et leur transformation projetée
 
 <br> 
-<img src="https://github.com/noeems/test-website-repo-3796/blob/a821186031800561f202f6e242e6f07fc63f105f/images/Ancien-hopital-geoportail.png">
+<img src="https://raw.githubusercontent.com/noeems/test-website-repo-3796/main/images/Ancien-hopital-geoportail.png">
 </summary>
 
 Aujourd’hui, le site de l’ancien hôpital, depuis le déménagement des services hospitaliers à Mazorel en 2014, comporte encore : l’EHPAD Armorin, l’EHPAD Ste Marie, une maison d’assistantes maternelles, une cuisine et des archives.
