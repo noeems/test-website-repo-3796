@@ -42,13 +42,13 @@ De plus, de nombreux habitants de la vallée ont une histoire personnelle avec c
 
 ### Pourquoi consacrer tant d'argent public à la naissance d'un projet 100% privé ?
 
-Les opérations de préparation de la parcelle vont coûter 2 600 000€ selon [EPORA](https://www.epora.fr/). La vente de la parcelle, une fois qu'elle aura été « préparée » rapportera 800 000€. Il reste donc à charge 1 790 000€ pour la collectivité publique, dont 65% sont pris en charge par EPORA, et 35% par la mairie de Crest. Soit + de 600 000€
+Les opérations de préparation de la parcelle vont coûter 2 600 000€ selon [EPORA](https://www.epora.fr/){:target="_blank"}. La vente de la parcelle, une fois qu'elle aura été « préparée » rapportera 800 000€. Il reste donc à charge 1 790 000€ pour la collectivité publique, dont 65% sont pris en charge par EPORA, et 35% par la mairie de Crest. Soit + de 600 000€
 
 **Est-ce bien raisonnable d'employer une telle somme pour privatiser un bien public ?**
 
 ### Pourquoi démolir un bâtiment existant, plutôt que de le rénover ?
 
-Dans un contexte de raréfaction de certaines ressources et de contraintes croissantes sur leur exploitation, [l’ADEME a publié en 2020 les résultats de deux études prospectives](https://presse.ademe.fr/2019/12/etude-la-construction-neuve-beaucoup-plus-consommatrice-de-materiaux-que-la-renovation.html) permettant de comparer la consommation de matériaux nécessaires pour la construction et la rénovation d'un bâtiment en bon état. La construction d’un bâtiment de logements collectifs ou d’un EHPAD consomme en moyenne 1,6 t/m2, soit environ 80 fois plus que de rénover un bâtiment existant. 
+Dans un contexte de raréfaction de certaines ressources et de contraintes croissantes sur leur exploitation, [l’ADEME a publié en 2020 les résultats de deux études prospectives](https://presse.ademe.fr/2019/12/etude-la-construction-neuve-beaucoup-plus-consommatrice-de-materiaux-que-la-renovation.html){:target="_blank"} permettant de comparer la consommation de matériaux nécessaires pour la construction et la rénovation d'un bâtiment en bon état. La construction d’un bâtiment de logements collectifs ou d’un EHPAD consomme en moyenne 1,6 t/m2, soit environ 80 fois plus que de rénover un bâtiment existant. 
 **C'est un non-sens écologique de démolir ce bâtiment.**
 
 Ce bâtiment a 100 ans, il a été construit avec des matériaux nobles, du bois, de la pierre. Il est bien orienté, lumineux, il est compact (donc plus facile à isoler thermiquement). A l'époque, il a été mis en œuvre par des artisans exerçant des savoir-faire uniques. Si on voulait reconstruire à l'identique aujourd'hui, ce serait hors de prix.
