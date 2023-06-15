@@ -28,7 +28,7 @@ Pourtant, aux dernières nouvelles... Voici comment le projet a évolué :
 - **Un manque d’informations et de transparence de la part de l’équipe municipale**,
 - **La démolition d’un bâtiment récent, et en bon état...**
 
-Le projet tel qu'imaginé aujourd'hui par les équipes municipales pose question sur les plans économique, écologique, social, d'urbanisme...
+Le projet tel qu'imaginé aujourd'hui pose question sur les plans économique, écologique, social, d'urbanisme...
 
 **[Découvrez les raisons de notre mobilisation](http://collectifhop.fr/pourquoi%20sommes-nous%20mobilises%20-.html)**
 
@@ -37,6 +37,7 @@ Le projet tel qu'imaginé aujourd'hui par les équipes municipales pose question
 Par exemple : 
 - diffuser l'information autour de vous, 
 - écrire à vos élus,
+- venir prendre part au temps collectif le 20 juin à 19h,
 - rejoindre le collectif...
 
 **[Découvrir quelles actions vous correspondent](http://collectifhop.fr/agir%20avec%20nous.html)**
