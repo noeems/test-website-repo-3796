@@ -1,6 +1,18 @@
 ---
 title: Pourquoi sommes-nous mobilisés ?
 ---
+### En synthèse,
+**Nous sommes** : 
+- Contre la démolition d’un bâtiment de 3 000m2,
+- Contre l’appropriation d’un bien commun par des projets lucratifs (pour des lieux de rencontre et de médiation),
+- Contre l'amorce du projet / les votes sans l’avis préalable des habitants.
+
+**Ce que nous demandons** :
+- Une concertation effective, ouverte à tous les habitants,
+- Que l’ancien hôpital reste au moins en partie au service de l’ensemble des habitants,
+- Que les travaux respectent l’existant, l’équilibre du site et conserve les volumes en bon état,
+- Que le projet soit en phase avec les enjeux écologiques et sociaux de la vallée.
+
 ### Les chiffres, les thèmes, et les dates clé
 Le 16 mai, nous avons organisé une réunion publique. Une présentation des informations dont le collectif dispose à date, suivie de questions-réponses :
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ispRqygJ7-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -17,13 +29,15 @@ La mairie dispose d'une opportunité unique avec cet ensemble de bâtiments et c
 **La création d’un hôtel fait-elle partie des besoins prioritaires ?**
 
 – **Logement** : Le Plan Local de l'Habitat construit avec la mairie de Crest indique que « Le territoire du Crestois et du pays de Saillans fait face à un marché immobilier tendu. Le parc locatif est sous-tension : il est difficile d’accéder à un logement dans le privé comme dans le parc public. Par ailleurs, de jeunes ménages / primo-accédants quittent le territoire faute de solution résidentielle quand ils veulent accéder à la propriété. »
-Par ailleurs il y aussi un besoin très fort de logements temporaires pour accueillir les saisonniers, les étudiants, les jeunes travailleurs...
+Il y aussi un besoin très fort de logements temporaires pour accueillir les saisonniers, les étudiants, les jeunes travailleurs...
 
 – **Locaux professionnels** : Il y a de nombreux professionnels sur le territoire qui cherchent des bureaux pour travailler, et ne trouvent pas.
 
 – **Lieu associatif** : de nombreuses associations ont des difficultés pour trouver des locaux pour organiser des événements, séminaires, activités, réunions...
 
 – **Crèches** : À Crest comme dans toute la vallée, les places en crèches sont rares, et de nombreux parents se trouvent confrontés à de grandes difficultés pour trouver des solutions de garde.
+
+On pourrait aussi aborder les lieux artistiques ou les besoins en hébergements temporaires...
 
 Pourquoi avoir mis à la trappe tous les autres aspects du projet tel qu'énoncé dans le programme des municipales 2020, et n'avoir conservé que les logements privés et l'hôtel ?
 
@@ -39,6 +53,9 @@ Le ré-aménagement du quartier de la gare, pour lequel des panneaux d'informati
 De plus, de nombreux habitants de la vallée ont une histoire personnelle avec ce bâtiment. Des gens y ont travaillé, y sont né, ont veillé des proches dans ces chambres. C'est un symbole de la vie collective, un bâtiment public dans lequel on prend soin et on assiste toutes les personnes qui en ont besoin. 
 
 **Nous demandons une concertation citoyenne pour que naisse un projet collectif d'intérêt général.**
+
+_**Mise à jour fin mai** : suite à notre réunion publique, l'équipe de la ville a annoncé la création d'une commission spéciale à ce sujet. Plus d'informations à venir après le conseil municipal du 19 juin, date à laquelle nous devrions en apprendre plus.
+_
 
 ### Pourquoi consacrer tant d'argent public à la naissance d'un projet 100% privé ?
 
