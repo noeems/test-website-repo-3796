@@ -23,10 +23,10 @@ _Ce temps concerne uniquement les personnes qui viennent à une réunion du Coll
 
 **19h - Début de la réunion** (Temps de travail du collectif)
 
-1 - Point d'information (20min)
-2 - La commission extra-municipale (30min)
-3 - Proposition d'un texte commun explicitant l'objet et l'orientation du collectif (30min)
-4 - Organisation interne du collectif (10min)
+1 - Point d'information (20min),
+2 - La commission extra-municipale (30min),
+3 - Proposition d'un texte commun explicitant l'objet et l'orientation du collectif (30min),
+4 - Organisation interne du collectif (10min),
 5 - Prochaines actions et prochains évènements (30min)
 
 Fin de la réunion entre 21h et 21h15 : celles et ceux qui le souhaitent sont invités à apporter quelque chose à partager pour boire un verre à l'issue de la réunion !
