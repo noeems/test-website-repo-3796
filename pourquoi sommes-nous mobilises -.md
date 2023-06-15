@@ -50,11 +50,11 @@ Nous avons bien vu que les équipes municipales étaient équipées pour informe
 Un exemple récent ?
 Le ré-aménagement du quartier de la gare, pour lequel des panneaux d'information ont été mis à disposition, des annonces ont été diffusées dans le magazine municipal le Lien, des moments de concertation ont été organisés...
 
-De plus, de nombreux habitants de la vallée ont une histoire personnelle avec ce bâtiment. Des gens y ont travaillé, y sont né, ont veillé des proches dans ces chambres. C'est un symbole de la vie collective, un bâtiment public dans lequel on prend soin et on assiste toutes les personnes qui en ont besoin. 
+De plus, de nombreux habitants de la vallée ont une histoire personnelle avec ce bâtiment. Des gens y ont travaillé, y sont nés, ont veillé des proches dans ces chambres. C'est un symbole de la vie collective, un bâtiment public dans lequel on prend soin et on assiste toutes les personnes qui en ont besoin. 
 
 **Nous demandons une concertation citoyenne pour que naisse un projet collectif d'intérêt général.**
 
-_**Mise à jour fin mai** : suite à notre réunion publique, l'équipe de la ville a annoncé la création d'une commission spéciale à ce sujet. Plus d'informations à venir après le conseil municipal du 19 juin, date à laquelle nous devrions en apprendre plus._
+_**Mise à jour fin mai** : suite à notre réunion publique courant mai, l'équipe de la ville a annoncé la création d'une commission spéciale à ce sujet. Plus d'informations à venir au conseil municipal du 19 juin, date à laquelle nous devrions en apprendre plus. L'édito du "Lien" édition printemps 2023 concerne également le sujet._
 
 ### Pourquoi consacrer tant d'argent public à la naissance d'un projet 100% privé ?
 
