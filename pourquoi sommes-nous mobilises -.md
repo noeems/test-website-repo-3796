@@ -54,8 +54,7 @@ De plus, de nombreux habitants de la vallée ont une histoire personnelle avec c
 
 **Nous demandons une concertation citoyenne pour que naisse un projet collectif d'intérêt général.**
 
-_**Mise à jour fin mai** : suite à notre réunion publique, l'équipe de la ville a annoncé la création d'une commission spéciale à ce sujet. Plus d'informations à venir après le conseil municipal du 19 juin, date à laquelle nous devrions en apprendre plus.
-_
+_**Mise à jour fin mai** : suite à notre réunion publique, l'équipe de la ville a annoncé la création d'une commission spéciale à ce sujet. Plus d'informations à venir après le conseil municipal du 19 juin, date à laquelle nous devrions en apprendre plus._
 
 ### Pourquoi consacrer tant d'argent public à la naissance d'un projet 100% privé ?
 
