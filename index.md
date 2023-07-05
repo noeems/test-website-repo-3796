@@ -37,7 +37,7 @@ Le projet tel qu'imaginé aujourd'hui pose question sur les plans économique, �
 Par exemple : 
 - diffuser l'information autour de vous, 
 - écrire à vos élus,
-- venir prendre part au temps de rencontre et de travail le 20 juin à 19h ([plus d'informations](http://collectifhop.fr/agir%20avec%20nous.html)),
+- venir prendre part à des temps de rencontre et de travail ([plus d'informations](http://collectifhop.fr/agir%20avec%20nous.html)),
 - rejoindre le collectif...
 
 **[Découvrir quelles actions vous correspondent](http://collectifhop.fr/agir%20avec%20nous.html)**
