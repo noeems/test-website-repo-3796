@@ -1,5 +1,6 @@
 ---
-title: Re-joindre le collectif
+title: "Re-joindre le collectif"
+order: 4
 ---
 Composé à son origine par une quarantaine de personnes, nous sommes : 
 - des Crestois et Crestoises & personnes habitant la vallée, 
