@@ -1,10 +1,12 @@
 ---
-title: Agir avec nous
+title: "Agir avec nous"
 ---
 ## Solliciter vos élus et élues
+
+Voici un message que nous vous proposons d'envoyer à vos élus locaux, à adapter selon vos envies et sensibilités.
+
 Par mail :
 Vous pouvez écrire à [admin@mairie-crest.fr](mailto:admin@mairie-crest.fr)
-Nous allons bientôt vous proposer un message type, à adapter selon vos envies et sensibilités.
 
 Par téléphone :
 La Mairie répond aux numéros suivants : 04 75 76 61 10 ou 04 75 25 00 63
@@ -22,4 +24,4 @@ Et nous pourrons vous présenter notre actualité, et les petits groupes constit
 ## Diffuser l'information
 - **Recevoir un tract ou une affiche, le rendre visible** sur sa fenêtre, sa porte, sa boîte aux lettres, l'afficher sur son lieu de travail… ([Contactez-nous !](mailto:hopcollectif@gmail.com))
 
-- **En parler autour de vous** : à vos amis, voisins, collègues, partager l’information par email, sur les réseaux...
+- **En parler autour de vous** : à vos amis, voisins, collègues, partager l’information par email, sur les réseaux... 
